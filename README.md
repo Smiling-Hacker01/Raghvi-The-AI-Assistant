@@ -36,7 +36,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/raghvi-ai-assistant.git
+   https://github.com/Smiling-Hacker01/Raghvi-The-AI-Assistant.git
 
 
 2. Open index.html in your browser (no server needed!)
